@@ -1,9 +1,9 @@
-# charge script to create a computer power consumption log
+# Charge script to create a computer power consumption log
 
 These script allow to create log files that contains the Computer resources consumption, for the time desired from the user who launch them.
-They are based on Phoronix Test Suite and on linux bash command Htop and Cpustat.
+They are based on Phoronix Test Suite and on linux bash commands Htop and Cpustat.
 
-The installation instruction for Ubuntu/Debian like are following:
+The installation instruction for Ubuntu/Debian like follows:
 
 Phoenix test configuration 
 
@@ -37,6 +37,11 @@ sudo snap install cpustat
 
 
 To launch the script, just give them the pemission and run them. (E.g.:  ./test_no_charge.sh)
-The launching parameters guide will be visualized each time the scripts are runned without parameters. 
+The launching parameters guide will be visualized each time the scripts are runned without parameters
+as in the example below. 
+
+Parameters are missing!
+Usage: ./test_no_charge.sh namefile.txt  execution_time_in_minutes
+Example: ./test_no_charge.sh log.txt 30
 
 
