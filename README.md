@@ -8,6 +8,7 @@ The installation instruction for Ubuntu/Debian like follows:
 Phoenix test configuration 
 
 $ download from http://www.phoronix-test-suite.com/?k=downloads
+
 $ sudo apt install gdebi-core
 
 $ sudo gdebi phoronix-test-suite_xx.x.x_all.deb
