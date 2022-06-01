@@ -45,7 +45,9 @@ The launching parameters guide will be visualized each time the scripts are runn
 as in the example below. 
 
 Parameters are missing!
+
 Usage: ./test_no_charge.sh namefile.txt  execution_time_in_minutes
+
 Example: ./test_no_charge.sh log.txt 30
 
 
