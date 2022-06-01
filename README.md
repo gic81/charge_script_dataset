@@ -37,7 +37,7 @@ $ sudo apt install html2text
 
 cpustat Script configuration 
 
-sudo snap install cpustat
+$ sudo snap install cpustat
 
 
 To launch the script, just give them the pemission and run them. (E.g.:  ./test_no_charge.sh)
