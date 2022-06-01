@@ -42,7 +42,7 @@ $ sudo snap install cpustat
 
 To launch the script, just give them the pemission and run them. (E.g.:  ./test_no_charge.sh)
 The launching parameters guide will be visualized each time the scripts are runned without parameters
-as in the example below. 
+as in the example below: 
 
 Parameters are missing!
 
