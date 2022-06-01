@@ -1,13 +1,16 @@
-# charge_script_dataset
+# charge script to create a computer power consumption log
 
+These script allow to create log files that contains the Computer resources consumption, for the time desired from the user who launch them.
+They are based on Phoronix Test Suite and on linux bash command Htop and Cpustat.
 
+The installation instruction for Ubuntu/Debian like are following:
 
 Phoenix test configuration 
 
-$ wget https://phoronix-test-suite.com/releases/repo/pts.debian/files/phoronix-test-suite_10.4.0_all.deb
+$ download from http://www.phoronix-test-suite.com/?k=downloads 
 $ sudo apt install gdebi-core
 
-$ sudo gdebi phoronix-test-suite_10.4.0_all.deb
+$ sudo gdebi phoronix-test-suite_xx.x.x_all.deb
 $ sudo apt install pkg-config
 
 
@@ -32,4 +35,8 @@ cpustat Script configuration
 
 sudo snap install cpustat
 
-http://www.phoronix-test-suite.com/?k=downloads
+
+To launch the script, just give them the pemission and run them. (E.g.:  ./test_no_charge.sh)
+The launching parameters guide will be visualized each time the scripts are runned without parameters. 
+
+
