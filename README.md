@@ -29,8 +29,11 @@ $ phoronix-test-suite batch-setup
 Htop Script configuration
 
 $ sudo apt install htop
+
 $ sudo apt install aha
+
 $ sudo apt install html2text
+
 
 cpustat Script configuration 
 
