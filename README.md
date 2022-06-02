@@ -1,6 +1,6 @@
 # Charge script to create a computer power consumption log
 
-These script allow to create log files that contains the Computer resources consumption, for the time desired from the user who launch them.
+These scripts allow to create log files that contains the Computer resources consumption, for the time desired from the user who launch them.
 They are based on Phoronix Test Suite and on linux bash commands Htop and Cpustat.
 
 The installation instruction for Ubuntu/Debian like follows:
